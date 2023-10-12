@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Humber College',
+    degree: 'Ontario Graduate Certificate in Project Management',
+    link: 'https://humber.ca/',
+    year: 2021,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Lalbhai Dalpatbhai College of Engineering',
+    degree: 'Bachelors of Engineering in Computer Engineering',
+    link: 'http://ldce.ac.in/',
+    year: 2014,
   },
 ];
 

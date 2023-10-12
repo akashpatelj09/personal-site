@@ -5,7 +5,7 @@ const Age = () => {
 
   const tick = () => {
     const divisor = 1000 * 60 * 60 * 24 * 365.2421897; // ms in an average year
-    const birthTime = new Date('1990-02-05T09:24:00');
+    const birthTime = new Date('1992-11-09T07:00:00');
     setAge(((Date.now() - birthTime) / divisor).toFixed(11));
   };
 
@@ -27,14 +27,26 @@ const data = [
   {
     key: 'countries',
     label: 'Countries visited',
-    value: 53,
+    value: 2,
     link:
-      'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
+      '',
   },
   {
     key: 'location',
     label: 'Current city',
-    value: 'New York, NY',
+    value: 'Toronto, ON, Canada',
+  },
+  {
+    key: 'books',
+    label: 'Books Read',
+    value: '74',
+    link: 'https://www.goodreads.com/review/list/13596881-akash-patel?ref=nav_mybooks&shelf=read',
+  },
+  {
+    key: 'cycle',
+    label: 'Kilometeres Bicycled',
+    value: '10,146.8 km',
+    link: 'https://www.strava.com/athletes/29223845',
   },
 ];
 
