@@ -36,12 +36,6 @@ const courses = [
     university: 'Gujarat Technological University',
   },
   {
-    title: 'Advanced Computing Technology',
-    number: '170704',
-    link: 'https://www.gtu.ac.in/syllabus/BE_SchemeSyllabus.htm',
-    university: 'Gujarat Technological University',
-  },
-  {
     title: 'Advanced .NET Technology',
     number: '170707',
     link: 'https://www.gtu.ac.in/syllabus/BE_SchemeSyllabus.htm',
