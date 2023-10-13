@@ -65,7 +65,7 @@ const work = [
   {
     name: 'Infosys Ltd.',
     position: 'Senior Systems Engineer',
-    url: 'https://zenysis.com',
+    url: 'https://infosys.com',
     startDate: '2014-10-20',
     endDate: '2017-05-08',
     summary: `Infosys is primarily a consulting company that serves clients across the globe.
